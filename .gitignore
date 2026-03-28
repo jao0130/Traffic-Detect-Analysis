@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Anaconda / virtualenv
+envs/
+.env
+*.egg-info/
+
+# YOLO model weights (large files)
+models/*.pt
+models/*.onnx
+
+# Input videos (large files)
+data/*.mp4
+data/*.avi
+data/*.mov
+
+# TW dataset (large, auxiliary only)
+TW/
+
+# Output
+events_output/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Interview PDF
+*.pdf
