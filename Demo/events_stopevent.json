@@ -1,0 +1,290 @@
+{"event": "wrong_way", "track_id": 367, "time": "2026-03-28 17:52:02"}
+{"event": "wrong_way", "track_id": 450, "time": "2026-03-28 17:52:10"}
+{"event": "wrong_way", "track_id": 439, "time": "2026-03-28 17:52:11"}
+{"event": "wrong_way", "track_id": 450, "time": "2026-03-28 17:52:14"}
+{"event": "wrong_way", "track_id": 439, "time": "2026-03-28 17:52:15"}
+{"event": "overstay", "track_id": 450, "duration": 5.0, "time": "2026-03-28 17:52:15"}
+{"event": "overstay", "track_id": 439, "duration": 5.0, "time": "2026-03-28 17:52:16"}
+{"event": "wrong_way", "track_id": 486, "time": "2026-03-28 17:52:17"}
+{"event": "wrong_way", "track_id": 439, "time": "2026-03-28 17:52:18"}
+{"event": "wrong_way", "track_id": 507, "time": "2026-03-28 17:52:19"}
+{"event": "overstay", "track_id": 439, "duration": 5.0, "time": "2026-03-28 17:52:22"}
+{"event": "overstay", "track_id": 507, "duration": 5.0, "time": "2026-03-28 17:52:24"}
+{"event": "wrong_way", "track_id": 439, "time": "2026-03-28 17:52:25"}
+{"event": "overstay", "track_id": 439, "duration": 8.0, "time": "2026-03-28 17:52:25"}
+{"event": "overstay", "track_id": 507, "duration": 8.0, "time": "2026-03-28 17:52:27"}
+{"event": "overstay", "track_id": 439, "duration": 11.0, "time": "2026-03-28 17:52:28"}
+{"event": "overstay", "track_id": 507, "duration": 11.1, "time": "2026-03-28 17:52:30"}
+{"event": "overstay", "track_id": 439, "duration": 14.0, "time": "2026-03-28 17:52:31"}
+{"event": "overstay", "track_id": 507, "duration": 14.1, "time": "2026-03-28 17:52:33"}
+{"event": "wrong_way", "track_id": 439, "time": "2026-03-28 17:52:34"}
+{"event": "wrong_way", "track_id": 507, "time": "2026-03-28 17:52:34"}
+{"event": "wrong_way", "track_id": 592, "time": "2026-03-28 17:52:38"}
+{"event": "wrong_way", "track_id": 591, "time": "2026-03-28 17:52:39"}
+{"event": "wrong_way", "track_id": 592, "time": "2026-03-28 17:52:41"}
+{"event": "wrong_way", "track_id": 592, "time": "2026-03-28 17:52:45"}
+{"event": "wrong_way", "track_id": 636, "time": "2026-03-28 17:52:45"}
+{"event": "wrong_way", "track_id": 678, "time": "2026-03-28 17:52:46"}
+{"event": "wrong_way", "track_id": 592, "time": "2026-03-28 17:52:48"}
+{"event": "overstay", "track_id": 450, "duration": 5.0, "time": "2026-03-28 17:54:29"}
+{"event": "overstay", "track_id": 439, "duration": 5.0, "time": "2026-03-28 17:54:30"}
+{"event": "overstay", "track_id": 439, "duration": 5.0, "time": "2026-03-28 17:54:36"}
+{"event": "overstay", "track_id": 507, "duration": 5.0, "time": "2026-03-28 17:54:38"}
+{"event": "overstay", "track_id": 439, "duration": 8.0, "time": "2026-03-28 17:54:40"}
+{"event": "overstay", "track_id": 507, "duration": 8.0, "time": "2026-03-28 17:54:41"}
+{"event": "overstay", "track_id": 439, "duration": 11.0, "time": "2026-03-28 17:54:43"}
+{"event": "overstay", "track_id": 507, "duration": 11.1, "time": "2026-03-28 17:54:44"}
+{"event": "overstay", "track_id": 439, "duration": 14.1, "time": "2026-03-28 17:54:46"}
+{"event": "overstay", "track_id": 507, "duration": 14.1, "time": "2026-03-28 17:54:47"}
+{"event": "wrong_way", "track_id": 507, "time": "2026-03-28 17:54:49"}
+{"event": "wrong_way", "track_id": 591, "time": "2026-03-28 17:54:53"}
+{"event": "overstay", "track_id": 778, "duration": 5.0, "time": "2026-03-28 17:55:15"}
+{"event": "overstay", "track_id": 789, "duration": 5.0, "time": "2026-03-28 17:55:15"}
+{"event": "overstay", "track_id": 867, "duration": 5.0, "time": "2026-03-28 17:55:25"}
+{"event": "overstay", "track_id": 867, "duration": 8.0, "time": "2026-03-28 17:55:28"}
+{"event": "overstay", "track_id": 900, "duration": 5.0, "time": "2026-03-28 17:55:28"}
+{"event": "overstay", "track_id": 867, "duration": 11.0, "time": "2026-03-28 17:55:31"}
+{"event": "overstay", "track_id": 867, "duration": 14.0, "time": "2026-03-28 17:55:34"}
+{"event": "overstay", "track_id": 867, "duration": 17.1, "time": "2026-03-28 17:55:37"}
+{"event": "overstay", "track_id": 867, "duration": 20.1, "time": "2026-03-28 17:55:40"}
+{"event": "overstay", "track_id": 450, "duration": 5.0, "time": "2026-03-28 17:57:10"}
+{"event": "overstay", "track_id": 439, "duration": 5.0, "time": "2026-03-28 17:57:11"}
+{"event": "overstay", "track_id": 439, "duration": 5.0, "time": "2026-03-28 17:57:18"}
+{"event": "overstay", "track_id": 507, "duration": 5.0, "time": "2026-03-28 17:57:19"}
+{"event": "overstay", "track_id": 439, "duration": 8.1, "time": "2026-03-28 17:57:21"}
+{"event": "overstay", "track_id": 507, "duration": 8.0, "time": "2026-03-28 17:57:22"}
+{"event": "overstay", "track_id": 439, "duration": 11.1, "time": "2026-03-28 17:57:24"}
+{"event": "overstay", "track_id": 507, "duration": 11.0, "time": "2026-03-28 17:57:25"}
+{"event": "overstay", "track_id": 439, "duration": 14.1, "time": "2026-03-28 17:57:27"}
+{"event": "overstay", "track_id": 507, "duration": 14.1, "time": "2026-03-28 17:57:28"}
+{"event": "wrong_way", "track_id": 507, "time": "2026-03-28 17:57:30"}
+{"event": "wrong_way", "track_id": 591, "time": "2026-03-28 17:57:34"}
+{"event": "overstay", "track_id": 778, "duration": 5.0, "time": "2026-03-28 17:57:56"}
+{"event": "overstay", "track_id": 789, "duration": 5.0, "time": "2026-03-28 17:57:56"}
+{"event": "overstay", "track_id": 867, "duration": 5.0, "time": "2026-03-28 17:58:06"}
+{"event": "overstay", "track_id": 867, "duration": 8.0, "time": "2026-03-28 17:58:09"}
+{"event": "overstay", "track_id": 900, "duration": 5.0, "time": "2026-03-28 17:58:09"}
+{"event": "overstay", "track_id": 867, "duration": 11.0, "time": "2026-03-28 17:58:12"}
+{"event": "overstay", "track_id": 867, "duration": 14.0, "time": "2026-03-28 17:58:15"}
+{"event": "overstay", "track_id": 867, "duration": 17.1, "time": "2026-03-28 17:58:18"}
+{"event": "overstay", "track_id": 867, "duration": 20.1, "time": "2026-03-28 17:58:21"}
+{"event": "overstay", "track_id": 248, "duration": 7.2, "time": "2026-03-28 18:01:58"}
+{"event": "overstay", "track_id": 267, "duration": 7.4, "time": "2026-03-28 18:01:59"}
+{"event": "overstay", "track_id": 367, "duration": 10.3, "time": "2026-03-28 18:02:01"}
+{"event": "overstay", "track_id": 396, "duration": 5.2, "time": "2026-03-28 18:02:04"}
+{"event": "overstay", "track_id": 340, "duration": 13.0, "time": "2026-03-28 18:02:04"}
+{"event": "overstay", "track_id": 412, "duration": 16.7, "time": "2026-03-28 18:02:08"}
+{"event": "overstay", "track_id": 412, "duration": 16.9, "time": "2026-03-28 18:02:08"}
+{"event": "overstay", "track_id": 450, "duration": 5.0, "time": "2026-03-28 18:02:12"}
+{"event": "overstay", "track_id": 439, "duration": 6.3, "time": "2026-03-28 18:02:14"}
+{"event": "overstay", "track_id": 439, "duration": 9.3, "time": "2026-03-28 18:02:18"}
+{"event": "overstay", "track_id": 439, "duration": 12.4, "time": "2026-03-28 18:02:21"}
+{"event": "overstay", "track_id": 507, "duration": 5.0, "time": "2026-03-28 18:02:21"}
+{"event": "overstay", "track_id": 439, "duration": 15.4, "time": "2026-03-28 18:02:24"}
+{"event": "overstay", "track_id": 507, "duration": 8.0, "time": "2026-03-28 18:02:24"}
+{"event": "overstay", "track_id": 439, "duration": 18.4, "time": "2026-03-28 18:02:27"}
+{"event": "overstay", "track_id": 507, "duration": 11.0, "time": "2026-03-28 18:02:27"}
+{"event": "overstay", "track_id": 439, "duration": 21.4, "time": "2026-03-28 18:02:30"}
+{"event": "overstay", "track_id": 507, "duration": 14.2, "time": "2026-03-28 18:02:30"}
+{"event": "overstay", "track_id": 507, "duration": 14.3, "time": "2026-03-28 18:02:30"}
+{"event": "wrong_way", "track_id": 507, "time": "2026-03-28 18:02:31"}
+{"event": "overstay", "track_id": 439, "duration": 24.5, "time": "2026-03-28 18:02:33"}
+{"event": "wrong_way", "track_id": 591, "time": "2026-03-28 18:02:35"}
+{"event": "overstay", "track_id": 592, "duration": 27.5, "time": "2026-03-28 18:02:36"}
+{"event": "overstay", "track_id": 636, "duration": 5.0, "time": "2026-03-28 18:02:39"}
+{"event": "overstay", "track_id": 592, "duration": 30.6, "time": "2026-03-28 18:02:39"}
+{"event": "overstay", "track_id": 636, "duration": 6.8, "time": "2026-03-28 18:02:41"}
+{"event": "overstay", "track_id": 735, "duration": 6.2, "time": "2026-03-28 18:02:48"}
+{"event": "overstay", "track_id": 778, "duration": 9.8, "time": "2026-03-28 18:02:51"}
+{"event": "overstay", "track_id": 778, "duration": 12.8, "time": "2026-03-28 18:02:54"}
+{"event": "overstay", "track_id": 789, "duration": 5.0, "time": "2026-03-28 18:02:57"}
+{"event": "overstay", "track_id": 778, "duration": 15.8, "time": "2026-03-28 18:02:57"}
+{"event": "overstay", "track_id": 867, "duration": 19.1, "time": "2026-03-28 18:03:00"}
+{"event": "overstay", "track_id": 867, "duration": 22.1, "time": "2026-03-28 18:03:03"}
+{"event": "overstay", "track_id": 867, "duration": 25.1, "time": "2026-03-28 18:03:07"}
+{"event": "overstay", "track_id": 900, "duration": 5.0, "time": "2026-03-28 18:03:09"}
+{"event": "overstay", "track_id": 921, "duration": 6.9, "time": "2026-03-28 18:03:09"}
+{"event": "overstay", "track_id": 867, "duration": 28.1, "time": "2026-03-28 18:03:10"}
+{"event": "overstay", "track_id": 915, "duration": 8.7, "time": "2026-03-28 18:03:11"}
+{"event": "overstay", "track_id": 867, "duration": 31.1, "time": "2026-03-28 18:03:13"}
+{"event": "overstay", "track_id": 867, "duration": 34.2, "time": "2026-03-28 18:03:16"}
+{"event": "overstay", "track_id": 867, "duration": 37.2, "time": "2026-03-28 18:03:19"}
+{"event": "overstay", "track_id": 1042, "duration": 41.5, "time": "2026-03-28 18:03:23"}
+{"event": "overstay", "track_id": 1087, "duration": 44.5, "time": "2026-03-28 18:03:26"}
+{"event": "overstay", "track_id": 1162, "duration": 49.2, "time": "2026-03-28 18:03:31"}
+{"event": "overstay", "track_id": 1159, "duration": 5.0, "time": "2026-03-28 18:03:33"}
+{"event": "overstay", "track_id": 379, "duration": 5.0, "time": "2026-03-28 18:13:15"}
+{"event": "overstay", "track_id": 374, "duration": 7.0, "time": "2026-03-28 18:13:18"}
+{"event": "overstay", "track_id": 374, "duration": 10.0, "time": "2026-03-28 18:13:21"}
+{"event": "wrong_way", "track_id": 455, "time": "2026-03-28 18:13:22"}
+{"event": "overstay", "track_id": 374, "duration": 13.1, "time": "2026-03-28 18:13:24"}
+{"event": "wrong_way", "track_id": 478, "time": "2026-03-28 18:13:27"}
+{"event": "overstay", "track_id": 374, "duration": 16.1, "time": "2026-03-28 18:13:27"}
+{"event": "overstay", "track_id": 478, "duration": 5.0, "time": "2026-03-28 18:13:29"}
+{"event": "overstay", "track_id": 374, "duration": 19.1, "time": "2026-03-28 18:13:30"}
+{"event": "overstay", "track_id": 478, "duration": 7.2, "time": "2026-03-28 18:13:31"}
+{"event": "overstay", "track_id": 478, "duration": 8.0, "time": "2026-03-28 18:13:32"}
+{"event": "wrong_way", "track_id": 478, "time": "2026-03-28 18:13:32"}
+{"event": "overstay", "track_id": 374, "duration": 22.2, "time": "2026-03-28 18:13:33"}
+{"event": "overstay", "track_id": 478, "duration": 11.1, "time": "2026-03-28 18:13:35"}
+{"event": "overstay", "track_id": 374, "duration": 25.2, "time": "2026-03-28 18:13:36"}
+{"event": "overstay", "track_id": 523, "duration": 28.3, "time": "2026-03-28 18:13:39"}
+{"event": "wrong_way", "track_id": 522, "time": "2026-03-28 18:13:40"}
+{"event": "overstay", "track_id": 568, "duration": 5.2, "time": "2026-03-28 18:13:44"}
+{"event": "overstay", "track_id": 523, "duration": 33.5, "time": "2026-03-28 18:13:44"}
+{"event": "wrong_way", "track_id": 568, "time": "2026-03-28 18:13:45"}
+{"event": "overstay", "track_id": 568, "duration": 7.1, "time": "2026-03-28 18:13:46"}
+{"event": "overstay", "track_id": 523, "duration": 36.5, "time": "2026-03-28 18:13:47"}
+{"event": "overstay", "track_id": 523, "duration": 39.6, "time": "2026-03-28 18:13:50"}
+{"event": "overstay", "track_id": 637, "duration": 43.8, "time": "2026-03-28 18:13:55"}
+{"event": "overstay", "track_id": 675, "duration": 47.9, "time": "2026-03-28 18:13:59"}
+{"event": "overstay", "track_id": 675, "duration": 50.9, "time": "2026-03-28 18:14:02"}
+{"event": "overstay", "track_id": 675, "duration": 53.9, "time": "2026-03-28 18:14:05"}
+{"event": "overstay", "track_id": 741, "duration": 58.7, "time": "2026-03-28 18:14:10"}
+{"event": "wrong_way", "track_id": 751, "time": "2026-03-28 18:14:11"}
+{"event": "wrong_way", "track_id": 751, "time": "2026-03-28 18:14:11"}
+{"event": "wrong_way", "track_id": 751, "time": "2026-03-28 18:14:11"}
+{"event": "overstay", "track_id": 741, "duration": 61.7, "time": "2026-03-28 18:14:13"}
+{"event": "overstay", "track_id": 741, "duration": 64.7, "time": "2026-03-28 18:14:16"}
+{"event": "overstay", "track_id": 741, "duration": 67.7, "time": "2026-03-28 18:14:19"}
+{"event": "wrong_way", "track_id": 780, "time": "2026-03-28 18:14:19"}
+{"event": "wrong_way", "track_id": 780, "time": "2026-03-28 18:14:19"}
+{"event": "overstay", "track_id": 741, "duration": 70.7, "time": "2026-03-28 18:14:22"}
+{"event": "overstay", "track_id": 741, "duration": 73.8, "time": "2026-03-28 18:14:25"}
+{"event": "overstay", "track_id": 741, "duration": 76.8, "time": "2026-03-28 18:14:28"}
+{"event": "overstay", "track_id": 741, "duration": 79.8, "time": "2026-03-28 18:14:31"}
+{"event": "overstay", "track_id": 872, "duration": 83.7, "time": "2026-03-28 18:14:35"}
+{"event": "overstay", "track_id": 871, "duration": 5.0, "time": "2026-03-28 18:14:35"}
+{"event": "overstay", "track_id": 898, "duration": 87.2, "time": "2026-03-28 18:14:38"}
+{"event": "overstay", "track_id": 379, "duration": 5.0, "time": "2026-03-28 18:19:01"}
+{"event": "overstay", "track_id": 374, "duration": 7.2, "time": "2026-03-28 18:19:04"}
+{"event": "overstay", "track_id": 431, "duration": 8.0, "time": "2026-03-28 18:19:04"}
+{"event": "overstay", "track_id": 374, "duration": 10.2, "time": "2026-03-28 18:19:07"}
+{"event": "wrong_way", "track_id": 455, "time": "2026-03-28 18:19:08"}
+{"event": "overstay", "track_id": 374, "duration": 13.2, "time": "2026-03-28 18:19:10"}
+{"event": "wrong_way", "track_id": 478, "time": "2026-03-28 18:19:13"}
+{"event": "overstay", "track_id": 374, "duration": 16.2, "time": "2026-03-28 18:19:13"}
+{"event": "overstay", "track_id": 478, "duration": 5.0, "time": "2026-03-28 18:19:15"}
+{"event": "overstay", "track_id": 374, "duration": 19.2, "time": "2026-03-28 18:19:16"}
+{"event": "overstay", "track_id": 478, "duration": 7.2, "time": "2026-03-28 18:19:17"}
+{"event": "overstay", "track_id": 478, "duration": 8.0, "time": "2026-03-28 18:19:18"}
+{"event": "wrong_way", "track_id": 478, "time": "2026-03-28 18:19:18"}
+{"event": "overstay", "track_id": 374, "duration": 22.3, "time": "2026-03-28 18:19:19"}
+{"event": "overstay", "track_id": 478, "duration": 11.1, "time": "2026-03-28 18:19:21"}
+{"event": "overstay", "track_id": 374, "duration": 25.3, "time": "2026-03-28 18:19:22"}
+{"event": "overstay", "track_id": 523, "duration": 28.8, "time": "2026-03-28 18:19:25"}
+{"event": "wrong_way", "track_id": 522, "time": "2026-03-28 18:19:26"}
+{"event": "overstay", "track_id": 523, "duration": 31.8, "time": "2026-03-28 18:19:28"}
+{"event": "overstay", "track_id": 568, "duration": 5.4, "time": "2026-03-28 18:19:30"}
+{"event": "wrong_way", "track_id": 568, "time": "2026-03-28 18:19:31"}
+{"event": "overstay", "track_id": 523, "duration": 34.9, "time": "2026-03-28 18:19:31"}
+{"event": "overstay", "track_id": 568, "duration": 7.3, "time": "2026-03-28 18:19:32"}
+{"event": "overstay", "track_id": 523, "duration": 37.9, "time": "2026-03-28 18:19:34"}
+{"event": "overstay", "track_id": 523, "duration": 40.9, "time": "2026-03-28 18:19:38"}
+{"event": "overstay", "track_id": 637, "duration": 44.2, "time": "2026-03-28 18:19:41"}
+{"event": "overstay", "track_id": 675, "duration": 48.2, "time": "2026-03-28 18:19:45"}
+{"event": "overstay", "track_id": 675, "duration": 51.2, "time": "2026-03-28 18:19:48"}
+{"event": "overstay", "track_id": 675, "duration": 54.2, "time": "2026-03-28 18:19:51"}
+{"event": "overstay", "track_id": 741, "duration": 58.6, "time": "2026-03-28 18:19:55"}
+{"event": "wrong_way", "track_id": 751, "time": "2026-03-28 18:19:57"}
+{"event": "wrong_way", "track_id": 751, "time": "2026-03-28 18:19:57"}
+{"event": "wrong_way", "track_id": 751, "time": "2026-03-28 18:19:57"}
+{"event": "overstay", "track_id": 741, "duration": 61.7, "time": "2026-03-28 18:19:58"}
+{"event": "overstay", "track_id": 741, "duration": 64.7, "time": "2026-03-28 18:20:01"}
+{"event": "overstay", "track_id": 741, "duration": 67.7, "time": "2026-03-28 18:20:04"}
+{"event": "wrong_way", "track_id": 780, "time": "2026-03-28 18:20:05"}
+{"event": "wrong_way", "track_id": 780, "time": "2026-03-28 18:20:05"}
+{"event": "overstay", "track_id": 741, "duration": 70.7, "time": "2026-03-28 18:20:07"}
+{"event": "overstay", "track_id": 741, "duration": 73.7, "time": "2026-03-28 18:20:10"}
+{"event": "overstay", "track_id": 741, "duration": 76.7, "time": "2026-03-28 18:20:13"}
+{"event": "overstay", "track_id": 741, "duration": 79.7, "time": "2026-03-28 18:20:16"}
+{"event": "overstay", "track_id": 872, "duration": 83.4, "time": "2026-03-28 18:20:20"}
+{"event": "overstay", "track_id": 898, "duration": 86.4, "time": "2026-03-28 18:20:23"}
+{"event": "overstay", "track_id": 908, "duration": 7.7, "time": "2026-03-28 18:20:23"}
+{"event": "forbidden_zone", "track_id": 51, "time": "2026-03-28 18:24:52"}
+{"event": "forbidden_zone", "track_id": 358, "time": "2026-03-28 18:25:15"}
+{"event": "overstay", "track_id": 379, "duration": 5.0, "time": "2026-03-28 18:25:24"}
+{"event": "overstay", "track_id": 374, "duration": 7.0, "time": "2026-03-28 18:25:27"}
+{"event": "overstay", "track_id": 455, "duration": 9.0, "time": "2026-03-28 18:25:28"}
+{"event": "forbidden_zone", "track_id": 431, "time": "2026-03-28 18:25:29"}
+{"event": "overstay", "track_id": 455, "duration": 10.4, "time": "2026-03-28 18:25:29"}
+{"event": "overstay", "track_id": 374, "duration": 10.0, "time": "2026-03-28 18:25:30"}
+{"event": "wrong_way", "track_id": 455, "time": "2026-03-28 18:25:31"}
+{"event": "overstay", "track_id": 455, "duration": 12.0, "time": "2026-03-28 18:25:31"}
+{"event": "overstay", "track_id": 374, "duration": 13.1, "time": "2026-03-28 18:25:33"}
+{"event": "forbidden_zone", "track_id": 488, "time": "2026-03-28 18:25:35"}
+{"event": "wrong_way", "track_id": 478, "time": "2026-03-28 18:25:36"}
+{"event": "overstay", "track_id": 374, "duration": 16.1, "time": "2026-03-28 18:25:36"}
+{"event": "overstay", "track_id": 478, "duration": 5.0, "time": "2026-03-28 18:25:38"}
+{"event": "overstay", "track_id": 374, "duration": 19.1, "time": "2026-03-28 18:25:39"}
+{"event": "overstay", "track_id": 478, "duration": 7.2, "time": "2026-03-28 18:25:40"}
+{"event": "overstay", "track_id": 478, "duration": 8.0, "time": "2026-03-28 18:25:41"}
+{"event": "wrong_way", "track_id": 478, "time": "2026-03-28 18:25:41"}
+{"event": "overstay", "track_id": 374, "duration": 22.1, "time": "2026-03-28 18:25:42"}
+{"event": "overstay", "track_id": 478, "duration": 11.0, "time": "2026-03-28 18:25:44"}
+{"event": "forbidden_zone", "track_id": 502, "time": "2026-03-28 18:25:44"}
+{"event": "overstay", "track_id": 374, "duration": 25.1, "time": "2026-03-28 18:25:45"}
+{"event": "overstay", "track_id": 523, "duration": 29.0, "time": "2026-03-28 18:25:49"}
+{"event": "wrong_way", "track_id": 522, "time": "2026-03-28 18:25:50"}
+{"event": "overstay", "track_id": 523, "duration": 32.0, "time": "2026-03-28 18:25:52"}
+{"event": "overstay", "track_id": 568, "duration": 5.6, "time": "2026-03-28 18:25:54"}
+{"event": "wrong_way", "track_id": 568, "time": "2026-03-28 18:25:55"}
+{"event": "forbidden_zone", "track_id": 574, "time": "2026-03-28 18:25:55"}
+{"event": "overstay", "track_id": 523, "duration": 35.0, "time": "2026-03-28 18:25:55"}
+{"event": "overstay", "track_id": 568, "duration": 7.4, "time": "2026-03-28 18:25:55"}
+{"event": "overstay", "track_id": 598, "duration": 9.1, "time": "2026-03-28 18:25:57"}
+{"event": "overstay", "track_id": 523, "duration": 38.0, "time": "2026-03-28 18:25:58"}
+{"event": "overstay", "track_id": 523, "duration": 41.0, "time": "2026-03-28 18:26:01"}
+{"event": "forbidden_zone", "track_id": 636, "time": "2026-03-28 18:26:05"}
+{"event": "forbidden_zone", "track_id": 677, "time": "2026-03-28 18:26:10"}
+{"event": "overstay", "track_id": 675, "duration": 5.0, "time": "2026-03-28 18:26:10"}
+{"event": "overstay", "track_id": 675, "duration": 8.0, "time": "2026-03-28 18:26:13"}
+{"event": "forbidden_zone", "track_id": 718, "time": "2026-03-28 18:26:14"}
+{"event": "overstay", "track_id": 675, "duration": 11.1, "time": "2026-03-28 18:26:16"}
+{"event": "overstay", "track_id": 724, "duration": 5.0, "time": "2026-03-28 18:26:16"}
+{"event": "overstay", "track_id": 741, "duration": 15.4, "time": "2026-03-28 18:26:20"}
+{"event": "wrong_way", "track_id": 751, "time": "2026-03-28 18:26:22"}
+{"event": "wrong_way", "track_id": 751, "time": "2026-03-28 18:26:22"}
+{"event": "wrong_way", "track_id": 751, "time": "2026-03-28 18:26:22"}
+{"event": "forbidden_zone", "track_id": 756, "time": "2026-03-28 18:26:22"}
+{"event": "overstay", "track_id": 741, "duration": 18.4, "time": "2026-03-28 18:26:23"}
+{"event": "overstay", "track_id": 741, "duration": 21.4, "time": "2026-03-28 18:26:26"}
+{"event": "overstay", "track_id": 780, "duration": 5.0, "time": "2026-03-28 18:26:28"}
+{"event": "overstay", "track_id": 780, "duration": 5.4, "time": "2026-03-28 18:26:29"}
+{"event": "overstay", "track_id": 741, "duration": 24.5, "time": "2026-03-28 18:26:29"}
+{"event": "wrong_way", "track_id": 780, "time": "2026-03-28 18:26:30"}
+{"event": "wrong_way", "track_id": 780, "time": "2026-03-28 18:26:30"}
+{"event": "overstay", "track_id": 793, "duration": 8.1, "time": "2026-03-28 18:26:31"}
+{"event": "overstay", "track_id": 741, "duration": 27.5, "time": "2026-03-28 18:26:32"}
+{"event": "overstay", "track_id": 803, "duration": 9.5, "time": "2026-03-28 18:26:33"}
+{"event": "forbidden_zone", "track_id": 812, "time": "2026-03-28 18:26:34"}
+{"event": "overstay", "track_id": 741, "duration": 30.5, "time": "2026-03-28 18:26:35"}
+{"event": "overstay", "track_id": 741, "duration": 33.5, "time": "2026-03-28 18:26:38"}
+{"event": "overstay", "track_id": 847, "duration": 5.9, "time": "2026-03-28 18:26:40"}
+{"event": "overstay", "track_id": 741, "duration": 36.6, "time": "2026-03-28 18:26:41"}
+{"event": "overstay", "track_id": 871, "duration": 9.9, "time": "2026-03-28 18:26:44"}
+{"event": "overstay", "track_id": 872, "duration": 40.2, "time": "2026-03-28 18:26:45"}
+{"event": "overstay", "track_id": 898, "duration": 43.8, "time": "2026-03-28 18:26:49"}
+{"event": "forbidden_zone", "track_id": 899, "time": "2026-03-28 18:26:49"}
+{"event": "forbidden_zone", "track_id": 924, "time": "2026-03-28 18:26:50"}
+{"event": "forbidden_zone", "track_id": 924, "time": "2026-03-28 18:26:51"}
+{"event": "forbidden_zone", "track_id": 924, "time": "2026-03-28 18:26:51"}
+{"event": "forbidden_zone", "track_id": 924, "time": "2026-03-28 18:26:52"}
+{"event": "overstay", "track_id": 379, "duration": 5.0, "time": "2026-03-28 18:35:42"}
+{"event": "overstay", "track_id": 374, "duration": 7.0, "time": "2026-03-28 18:35:44"}
+{"event": "overstay", "track_id": 455, "duration": 8.9, "time": "2026-03-28 18:35:45"}
+{"event": "overstay", "track_id": 455, "duration": 10.3, "time": "2026-03-28 18:35:47"}
+{"event": "overstay", "track_id": 374, "duration": 10.0, "time": "2026-03-28 18:35:47"}
+{"event": "wrong_way", "track_id": 455, "time": "2026-03-28 18:35:48"}
+{"event": "overstay", "track_id": 455, "duration": 11.9, "time": "2026-03-28 18:35:48"}
+{"event": "overstay", "track_id": 374, "duration": 13.0, "time": "2026-03-28 18:35:50"}
+{"event": "wrong_way", "track_id": 478, "time": "2026-03-28 18:35:53"}
+{"event": "overstay", "track_id": 374, "duration": 16.0, "time": "2026-03-28 18:35:53"}
+{"event": "overstay", "track_id": 478, "duration": 5.0, "time": "2026-03-28 18:35:55"}
+{"event": "overstay", "track_id": 374, "duration": 19.1, "time": "2026-03-28 18:35:56"}
+{"event": "overstay", "track_id": 478, "duration": 7.1, "time": "2026-03-28 18:35:57"}
+{"event": "overstay", "track_id": 478, "duration": 8.0, "time": "2026-03-28 18:35:58"}
+{"event": "wrong_way", "track_id": 478, "time": "2026-03-28 18:35:59"}
+{"event": "overstay", "track_id": 374, "duration": 22.1, "time": "2026-03-28 18:35:59"}
+{"event": "overstay", "track_id": 478, "duration": 11.0, "time": "2026-03-28 18:36:01"}
+{"event": "overstay", "track_id": 374, "duration": 25.1, "time": "2026-03-28 18:36:02"}
