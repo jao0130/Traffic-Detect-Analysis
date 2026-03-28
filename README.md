@@ -2,6 +2,7 @@
 
 簡化版即時交通事件分析模組，利用 YOLO11 物件辨識結果，判斷是否發生特定交通違規事件。
 
+![image](https://github.com/jao0130/Traffic-Detect-Analysis/blob/main/OUTPUT.gif)
 ---
 
 ## 環境需求
